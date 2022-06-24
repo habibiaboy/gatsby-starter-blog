@@ -3,7 +3,7 @@ module.exports = {
     title: `Hidupku`,
     author: {
       name: `Habibiaboy`,
-      summary: `tanpa paksaan orang warga planet mars.`,
+      summary: `tanpa paksaan warga planet mars.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
