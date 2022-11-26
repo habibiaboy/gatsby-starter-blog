@@ -3,11 +3,20 @@ title: Niat Puasa Senin Kamis
 date: "2022-11-26T22:06:03.284Z"
 ---
 
-Wow! I love blogging so much already.
+Lafal Niat Puasa Senin-Kamis Sebagaimana puasa pada umumnya, waktu niat puasa Senin-Kamis adalah pada malam hari, yakni sejak terbenamnya matahari sampai terbit fajar. Berikut adalah lafal niatnya:
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Puasa Senin : <br>
+<br>
+نَوَيْتُ صَوْمَ يَوْمِ الِاثْنَيْنِ لِلّٰهِ تَعَالَى
+<br>
+Nawaitu shauma yaumil itsnaini lillâhi ta‘âlâ.  
+Artinya: "Aku berniat puasa sunah hari Senin karena Allah ta‘âlâ."
 
-Yeah, I didn't either.
+Puasa Kamis : <br>
+<br>
+نَوَيْتُ صَوْمَ يَوْمِ الخَمِيْسِ لِلّٰهِ تَعَالَى  
+<br>
+Nawaitu shauma yaumil khamîsi lillâhi ta‘âlâ.  
+Artinya, "Aku berniat puasa sunah hari Kamis karena Allah ta‘âlâ."
+
+([Sumber](https://islam.nu.or.id/puasa/tata-cara-puasa-senin-kamis-niat-waktu-dan-keutamaannya-Z4hw0))
